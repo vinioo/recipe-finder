@@ -8,8 +8,7 @@ This repository contains a Recipe Search website made with react and react hooks
 - Requests an API Ausing axios.
 
 ## Project
-- A cool lights out game.
-![](.gifs/recipe.gif)
+![](recipe.gif)
 
 
 ## Final thoughts
