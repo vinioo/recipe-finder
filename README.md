@@ -5,7 +5,7 @@ This repository contains a Recipe Search website made with react and react hooks
 ## What i've learned?
 - React core basics.
 - Hooks.
-- Requests an API Ausing axios.
+- Request an API Ausing axios.
 
 ## Project
 ![](recipe.gif)
